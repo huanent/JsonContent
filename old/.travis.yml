@@ -1,5 +1,0 @@
-language: csharp
-solution: Huanent.JsonContent.sln
-dotnet: 2.1
-script:
- - dotnet restore
