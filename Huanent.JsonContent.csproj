@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.2.0</Version>
+    <Authors>Huanent</Authors>
+    <Company>Huanent</Company>
+    <PackageIconUrl>https://s.gravatar.com/avatar/7991b51c75f1b60cfbb6595315821c69?s=400</PackageIconUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Let HttpClient support JsonContent</Description>
+    <RepositoryUrl>https://github.com/huanent/JsonContent.git</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageProjectUrl>https://github.com/huanent/JsonContent</PackageProjectUrl>
+    <Copyright>MIT</Copyright>
+  </PropertyGroup>
+
+</Project>
